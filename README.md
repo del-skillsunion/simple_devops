@@ -31,7 +31,7 @@ Upon signing in with GitHub account, Circle CI will show a list of repositories 
 
 ### Step 4 - Setup Heroku App
 
-You are to create an App so that Circle CI can deploy the application to. You should name the App based on your preference (recommendation: `simple_devops_<your name>`). The App name is globally unique.
+You are to create an App so that Circle CI can deploy the application to. You should name the App based on your preference (recommendation: `simple-devops-<your name>`). The App name is globally unique.
 
 ### Step 5 - Add Environmental Variables to Circle CI
 
