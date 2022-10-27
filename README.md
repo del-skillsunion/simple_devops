@@ -46,6 +46,6 @@ The HEROKU_APP_NAME is the name of the App in Heroku that you created. Recommend
 
 ### Step 6 - Inspect the Pipeline Script
 
-The pipeline script has been provided by the instructor and you can view the file [here](./.circleci/config.yml). This script resides in the GitHub repository that you have forked.
+The pipeline script has been provided by the instructor and you can view the file [here](./.circleci/config.yml). This script resides in the GitHub repository that you have forked...
 
 The instructor would explain what the script do in the session.
